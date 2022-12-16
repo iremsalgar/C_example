@@ -18,6 +18,7 @@ int main()
    show_mem((char *)&i, sizeof(i));
 }
 
+
 /*
  *	"0x%2x" içinde 2, "alan genişliğini" tanımlar: 
  *	değerin onaltılı gösterimi 2 basamaktan daha az ise, 2 alan genişliği ile bitmesi için önüne boşluk eklenir.
